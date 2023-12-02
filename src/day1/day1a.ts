@@ -1,7 +1,5 @@
-import { getInput } from "../input";
+import { INPUT } from "./input";
 import { grabNumbers, grapFirstAndLast } from "./utils";
-
-const INPUT = getInput("src/day1/input.txt");
 
 export const result = INPUT
   ? INPUT

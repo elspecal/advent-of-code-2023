@@ -1,3 +1,4 @@
+export const INPUT = `
 eightqrssm9httwogqshfxninepnfrppfzhsc
 one111jxlmc7tvklrmhdpsix
 bptwone4sixzzppg
@@ -998,3 +999,4 @@ sixthree6lxcrsevenseven69twonegs
 drkdbmv4zbjbznsqtj
 eightbqfhnmvqsoneninezbrzcqkz4ftv
 1eightcrcjcbdthreebscfpvznqfrj6
+`.trim();
